@@ -40,7 +40,12 @@
       "ProjectGuid": "4b0397bb-e231-49ca-8f70-f803620b6c25",
       "DisplayName": "MLIrisFlower_WebApi",
       "ColorIndex": 6
+    },
+    "d0a92435-a810-44ee-a467-9e78fd460c5e": {
+      "ProjectGuid": "d0a92435-a810-44ee-a467-9e78fd460c5e",
+      "DisplayName": "MLIrisFlower_WebApi",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
