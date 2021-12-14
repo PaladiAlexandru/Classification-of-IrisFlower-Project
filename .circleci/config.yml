@@ -12,14 +12,14 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - dotnet-packages-v1-{{ checksum "C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\ClassificationIrisFlower\MLIrisFlower_WebApi\MLIrisFlower_WebApi.csproj" }}
+            - dotnet-packages-v1-{{ checksum "ClassificationIrisFlower\MLIrisFlower_WebApi\MLIrisFlower_WebApi.csproj" }}
       - run:
           name: "Install project dependencies"
           command: dotnet.exe restore ClassificationIrisFlower.sln
       - save_cache:
           paths:
             - C:\Users\circleci\.nuget\packages
-          key: dotnet-packages-v1-{{ checksum "C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\ClassificationIrisFlower\MLIrisFlower_WebApi\MLIrisFlower_WebApi.csproj" }}
+          key: dotnet-packages-v1-{{ checksum "ClassificationIrisFlower\MLIrisFlower_WebApi\MLIrisFlower_WebApi.csproj" }}
       - run:
           name: "Run Application Tests"
           command: dotnet.exe test ClassificationIrisFlower.sln -v n --results-directory:test_coverage --collect:"Code Coverage"
