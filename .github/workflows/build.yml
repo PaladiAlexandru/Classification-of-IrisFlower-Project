@@ -1,4 +1,4 @@
-name: Sonar Scan
+name: Sonar scan
 on:
   push:
     branches:
@@ -42,6 +42,6 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-	  .\.sonar\scanner\dotnet-sonarscanner begin /k:"PaladiAlexandru_Classification-of-IrisFlower-Project" /o:"paladialexandru" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"PaladiAlexandru_Classification-of-IrisFlower-Project" /o:"paladialexandru" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
           dotnet build WebAppIris.sln 
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
