@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6641568a-958a-4984-81ba-58bc351a1437": {
+      "ProjectGuid": "6641568a-958a-4984-81ba-58bc351a1437",
+      "DisplayName": "ClassificationIrisFlower",
+      "ColorIndex": 0
+    },
+    "1619bfb7-cdd8-4158-83f3-5c1516d27726": {
+      "ProjectGuid": "1619bfb7-cdd8-4158-83f3-5c1516d27726",
+      "DisplayName": "MLIrisFlower_WebApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
