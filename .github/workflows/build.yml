@@ -12,8 +12,7 @@ jobs:
     runs-on: windows-latest
     steps:
 	
-      - name: Setup .NET Core SDK
-  	uses: actions/setup-dotnet@v1.9.0
+      
 
 
       - name: Set up JDK 11
@@ -42,6 +41,8 @@ jobs:
         run: |
           New-Item -Path .\.sonar\scanner -ItemType Directory
           dotnet tool update dotnet-sonarscanner --tool-path .\.sonar\scanner
+      - name: Setup .NET Core SDK
+  	uses: actions/setup-dotnet@v1.9.0
       - name: Build and analyze
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
