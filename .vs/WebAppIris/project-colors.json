@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9907ad4-803b-429e-9a8b-24552ece582d": {
+      "ProjectGuid": "a9907ad4-803b-429e-9a8b-24552ece582d",
+      "DisplayName": "WebAppIris",
+      "ColorIndex": 0
+    },
+    "24d705a1-43bc-4c90-8160-8af513f821e5": {
+      "ProjectGuid": "24d705a1-43bc-4c90-8160-8af513f821e5",
+      "DisplayName": "WebAppIris-Backend",
+      "ColorIndex": 1
+    },
+    "6c93f64c-316b-43bb-882b-e85e12520c01": {
+      "ProjectGuid": "6c93f64c-316b-43bb-882b-e85e12520c01",
+      "DisplayName": "WebAppIris-Frontend",
+      "ColorIndex": 2
+    },
+    "df4b6606-bf47-484f-8303-739f3171f37d": {
+      "ProjectGuid": "df4b6606-bf47-484f-8303-739f3171f37d",
+      "DisplayName": "ClassificationOfIrisFlower",
+      "ColorIndex": 3
+    },
+    "46279ee8-515c-457e-a5a5-065d4aa0f57b": {
+      "ProjectGuid": "46279ee8-515c-457e-a5a5-065d4aa0f57b",
+      "DisplayName": "ClassificationOfIrisFlower",
+      "ColorIndex": 4
+    },
+    "1d807680-e6b5-4351-a6bf-5b06b8021f90": {
+      "ProjectGuid": "1d807680-e6b5-4351-a6bf-5b06b8021f90",
+      "DisplayName": "WebAPI-Backend",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4b0397bb-e231-49ca-8f70-f803620b6c25": {
+      "ProjectGuid": "4b0397bb-e231-49ca-8f70-f803620b6c25",
+      "DisplayName": "MLIrisFlower_WebApi",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
