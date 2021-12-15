@@ -21,6 +21,7 @@ import { CustomButton } from '../ButtonElement';
 
 const submitForm = () => {
     console.log('submited')
+    return 1;
 }
 
 function InputForm({
