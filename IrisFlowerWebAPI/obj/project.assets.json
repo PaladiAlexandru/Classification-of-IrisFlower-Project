@@ -6016,11 +6016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex_\\Downloads\\wetransfer_mlirisflower_2021-12-14_2140\\MLIrisFlower\\IrisFlowerWebAPI\\IrisFlowerWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\alex_\\OneDrive\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerWebAPI\\IrisFlowerWebAPI.csproj",
       "projectName": "IrisFlowerWebAPI",
-      "projectPath": "C:\\Users\\alex_\\Downloads\\wetransfer_mlirisflower_2021-12-14_2140\\MLIrisFlower\\IrisFlowerWebAPI\\IrisFlowerWebAPI.csproj",
+      "projectPath": "C:\\Users\\alex_\\OneDrive\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerWebAPI\\IrisFlowerWebAPI.csproj",
       "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex_\\Downloads\\wetransfer_mlirisflower_2021-12-14_2140\\MLIrisFlower\\IrisFlowerWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\alex_\\OneDrive\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alex_\\AppData\\Roaming\\NuGet\\NuGet.Config",
