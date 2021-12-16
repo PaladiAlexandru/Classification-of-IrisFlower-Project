@@ -12,17 +12,17 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - dotnet-packages-v1-{{ checksum "ClassificationIrisFlower\MLIrisFlower_WebApi\MLIrisFlower_WebApi.csproj" }}
+            - dotnet-packages-v1-{{ checksum "IrisFlowerWebAPI\IrisFlowerWebAPI.csproj" }}
       - run:
           name: "Install project dependencies"
-          command: dotnet.exe restore ClassificationIrisFlower.sln
+          command: dotnet.exe restore WebAppIris.sln
       - save_cache:
           paths:
             - C:\Users\circleci\.nuget\packages
-          key: dotnet-packages-v1-{{ checksum "ClassificationIrisFlower\MLIrisFlower_WebApi\MLIrisFlower_WebApi.csproj" }}
+          key: dotnet-packages-v1-{{ checksum "IrisFlowerWebAPI\IrisFlowerWebAPI.csproj" }}
       - run:
           name: "Run Application Tests"
-          command: dotnet.exe test ClassificationIrisFlower.sln -v n --results-directory:test_coverage --collect:"Code Coverage"
+          command: dotnet.exe test WebAppIris.sln -v n --results-directory:test_coverage --collect:"Code Coverage"
       - run:
           name: "Print Working Directory"
           command: pwd
@@ -36,7 +36,7 @@ jobs:
       - checkout
       - run:
           name: "Build Application according to some given configuration"
-          command: dotnet build ClassificationIrisFlower.sln
+          command: dotnet build WebAppIris.sln
 workflows:
   test_and_build:
     jobs:
