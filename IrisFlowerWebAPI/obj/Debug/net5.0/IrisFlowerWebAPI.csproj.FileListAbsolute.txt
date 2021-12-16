@@ -5,3 +5,10 @@ C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\Ir
 C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.csproj.CoreCompileInputs.cache
 C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.csproj.AssemblyReference.cache
+C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.AssemblyInfoInputs.cache
+C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.AssemblyInfo.cs
+C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.MvcApplicationPartsAssemblyInfo.cache

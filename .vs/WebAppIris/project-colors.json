@@ -25,7 +25,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "d206a010-81d8-4e0d-be0b-8caaf85915fc": {
+      "ProjectGuid": "d206a010-81d8-4e0d-be0b-8caaf85915fc",
+      "DisplayName": "IrisFlowerML",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

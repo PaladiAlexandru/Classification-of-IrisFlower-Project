@@ -16,7 +16,19 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Description = "Docs for my API", Version = "v1" });
 });
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AnyOrigin", builder =>
+    {
+        builder
+            .AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader();
+    });
+});
+
 var app = builder.Build();
+app.UseCors("AnyOrigin");
 
 app.UseSwagger();
 
@@ -29,6 +41,13 @@ app.UseSwaggerUI(c =>
 app.MapPost("/predict",
     async (PredictionEnginePool<MLIrisFlower.ModelInput, MLIrisFlower.ModelOutput> predictionEnginePool, MLIrisFlower.ModelInput input) =>
         await Task.FromResult(predictionEnginePool.Predict(input)));
+/*
+app.Use(async (context, next) =>
+{
+    context.Response.Headers.Add("Access-Control-Allow-Origin", "*");
+    context.Response.Headers.Add("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    await next();
+});*/
 
 // Run app
 app.Run();
