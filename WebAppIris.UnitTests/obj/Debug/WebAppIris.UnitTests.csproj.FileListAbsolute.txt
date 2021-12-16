@@ -1,0 +1,15 @@
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\WebAppIris.UnitTests.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\WebAppIris.UnitTests.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\obj\Debug\WebAppIris.UnitTests.csproj.AssemblyReference.cache
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\obj\Debug\WebAppIris.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\obj\Debug\WebAppIris.UnitTests.csproj.CopyComplete
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\obj\Debug\WebAppIris.UnitTests.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\Classification-of-IrisFlower-Project\WebAppIris.UnitTests\obj\Debug\WebAppIris.UnitTests.pdb

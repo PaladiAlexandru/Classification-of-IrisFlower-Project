@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dea415f2-d00a-420f-a811-d684ffd7e294": {
+      "ProjectGuid": "dea415f2-d00a-420f-a811-d684ffd7e294",
+      "DisplayName": "WebAppIrisFlower-Frontend",
+      "ColorIndex": 0
+    },
+    "55dfc4e4-56c5-4357-a8fc-7d356cc0a182": {
+      "ProjectGuid": "55dfc4e4-56c5-4357-a8fc-7d356cc0a182",
+      "DisplayName": "IrisFlowerWebAPI",
+      "ColorIndex": 1
+    },
+    "5f309393-30f3-4f12-8e39-ee6bd57d2eb3": {
+      "ProjectGuid": "5f309393-30f3-4f12-8e39-ee6bd57d2eb3",
+      "DisplayName": "IrisFlowerWebAPI",
+      "ColorIndex": 2
+    },
+    "14a19f0a-e119-431a-bcbf-232b16d40810": {
+      "ProjectGuid": "14a19f0a-e119-431a-bcbf-232b16d40810",
+      "DisplayName": "WebAppIris.UnitTests",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

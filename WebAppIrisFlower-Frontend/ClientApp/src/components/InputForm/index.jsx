@@ -20,7 +20,8 @@ import {
 import { CustomButton } from '../ButtonElement';
 
 const submitForm = () => {
-    console.log('submited')
+
+    console.log('send')
     return 1;
 }
 
