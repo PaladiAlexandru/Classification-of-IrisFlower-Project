@@ -1,6 +1,6 @@
 ﻿using Microsoft.ML.Data;
 
-namespace ML_API_V1.DataModels
+namespace IrisFlowerAPI.DataModels
 {
     public class IrisData
     {

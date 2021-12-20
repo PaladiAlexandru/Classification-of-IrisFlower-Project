@@ -38,7 +38,7 @@ const handleSubmit = async (event) => {
     event.preventDefault();
     axios({
         method: 'post',
-        url: 'https://localhost:44345/predict',
+        url: 'https://localhost:57051/predictions',
         data: {
             sepal_length: s_length == "" ? 0 : s_length,
             sepal_width: s_width == "" ? 0 : s_width,

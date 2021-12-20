@@ -7,7 +7,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.ML;
 using Microsoft.OpenApi.Models;
-using ML_API_V1.DataModels;
+using IrisFlowerAPI.DataModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,7 +35,7 @@ namespace ML_API_V1
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ML_API_V1", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "IrisFlowerWebApi", Version = "v1" });
             });
             services.AddPredictionEnginePool<IrisData, IrisPrediction>()
                 .FromFile(modelName: "IrisModel", filePath: "MLModels/IrisClusteringModel.zip", watchForChanges: true);
@@ -58,7 +58,7 @@ namespace ML_API_V1
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ML_API_V1 v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "IrisFlowerWebApi v1"));
             }
 
             app.UseRouting();
