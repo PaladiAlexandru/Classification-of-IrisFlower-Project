@@ -19,10 +19,8 @@ import {
 
 import { CustomButton } from '../ButtonElement';
 
-// import { make_request } from '../../Communication/requester'
-
 const axios = require('axios').default;
-// axios.defaults.headers.post['Access-Control-Allow-Origin'] = '*'
+axios.defaults.headers.post['content-type'] = 'text/plain';
 
 const handleSubmit = async (event) => {
     const s_length_input = document.getElementById('sepal-length');
@@ -35,10 +33,11 @@ const handleSubmit = async (event) => {
     const p_length = p_length_input.value
     const p_width = p_width_input.value
 
+    debugger
     event.preventDefault();
     axios({
         method: 'post',
-        url: 'https://localhost:57051/predictions',
+        url: 'http://localhost:57051/api/v1/predictions',
         data: {
             sepal_length: s_length == "" ? 0 : s_length,
             sepal_width: s_width == "" ? 0 : s_width,
@@ -46,18 +45,11 @@ const handleSubmit = async (event) => {
             petal_width: p_width == "" ? 0 : p_width
         }
       }).then(function (response) {
-            console.log(response);
-
-            var species = response.data.prediction;
-
-            alert(species)
+            alert(response.data);
         })
         .catch(function (error) {
             console.log(error);
-        })
-        .then(function () {
-            // always executed
-        }) 
+        });
     
         s_length_input.value = "";
         s_width_input.value = "";
