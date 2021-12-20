@@ -1,4 +1,0 @@
-# Number of terms = 3
-0	Iris-versicolor
-1	Iris-setosa
-2	Iris-virginica

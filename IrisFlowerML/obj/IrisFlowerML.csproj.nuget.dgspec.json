@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\IrisFlowerML.csproj": {}
+    "C:\\Users\\alex_\\OneDrive\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\IrisFlowerML.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\IrisFlowerML.csproj": {
+    "C:\\Users\\alex_\\OneDrive\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\IrisFlowerML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\IrisFlowerML.csproj",
+        "projectUniqueName": "C:\\Users\\alex_\\OneDrive\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\IrisFlowerML.csproj",
         "projectName": "IrisFlowerML",
-        "projectPath": "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\IrisFlowerML.csproj",
-        "packagesPath": "C:\\Users\\imariciuc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\obj\\",
+        "projectPath": "C:\\Users\\alex_\\OneDrive\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\IrisFlowerML.csproj",
+        "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alex_\\OneDrive\\Documents\\GitHub\\Classification-of-IrisFlower-Project\\IrisFlowerML\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\imariciuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\alex_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,20 +57,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[5.0.12, 5.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
             }
           ],
           "frameworkReferences": {

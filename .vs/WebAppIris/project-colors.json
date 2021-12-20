@@ -30,7 +30,17 @@
       "ProjectGuid": "d206a010-81d8-4e0d-be0b-8caaf85915fc",
       "DisplayName": "IrisFlowerML",
       "ColorIndex": 4
+    },
+    "cb280e98-bcd6-4702-bb80-c58c5c8ccc0e": {
+      "ProjectGuid": "cb280e98-bcd6-4702-bb80-c58c5c8ccc0e",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 5
+    },
+    "52cc4b36-e0d9-4f56-a87f-68899740447d": {
+      "ProjectGuid": "52cc4b36-e0d9-4f56-a87f-68899740447d",
+      "DisplayName": "MLModel_WebApi1",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }

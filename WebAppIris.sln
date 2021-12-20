@@ -4,15 +4,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppIrisFlower-Frontend", "WebAppIrisFlower-Frontend\WebAppIrisFlower-Frontend.csproj", "{DEA415F2-D00A-420F-A811-D684FFD7E294}"
-	ProjectSection(ProjectDependencies) = postProject
-		{D206A010-81D8-4E0D-BE0B-8CAAF85915FC} = {D206A010-81D8-4E0D-BE0B-8CAAF85915FC}
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IrisFlowerWebAPI", "IrisFlowerWebAPI\IrisFlowerWebAPI.csproj", "{5F309393-30F3-4F12-8E39-EE6BD57D2EB3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppIris.UnitTests", "WebAppIris.UnitTests\WebAppIris.UnitTests.csproj", "{14A19F0A-E119-431A-BCBF-232B16D40810}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IrisFlowerML", "IrisFlowerML\IrisFlowerML.csproj", "{D206A010-81D8-4E0D-BE0B-8CAAF85915FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLModel_WebApi1", "MLModel_WebApi1\MLModel_WebApi1.csproj", "{52CC4B36-E0D9-4F56-A87F-68899740447D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,10 +29,10 @@ Global
 		{14A19F0A-E119-431A-BCBF-232B16D40810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14A19F0A-E119-431A-BCBF-232B16D40810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14A19F0A-E119-431A-BCBF-232B16D40810}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D206A010-81D8-4E0D-BE0B-8CAAF85915FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D206A010-81D8-4E0D-BE0B-8CAAF85915FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D206A010-81D8-4E0D-BE0B-8CAAF85915FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D206A010-81D8-4E0D-BE0B-8CAAF85915FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CC4B36-E0D9-4F56-A87F-68899740447D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CC4B36-E0D9-4F56-A87F-68899740447D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CC4B36-E0D9-4F56-A87F-68899740447D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CC4B36-E0D9-4F56-A87F-68899740447D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
