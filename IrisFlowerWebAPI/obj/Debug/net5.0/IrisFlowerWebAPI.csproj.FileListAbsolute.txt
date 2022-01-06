@@ -188,5 +188,5 @@ C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\ref\IrisFlowerWebAPI.dll
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.pdb
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.genruntimeconfig.cache
-C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin\Debug\net5.0\IrisFlowerWebAPI.StaticWebAssets.xml
-C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.csproj.AssemblyReference.cache
+C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.csprojAssemblyReference.cache
+C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\staticwebassets\IrisFlowerWebAPI.StaticWebAssets.xml

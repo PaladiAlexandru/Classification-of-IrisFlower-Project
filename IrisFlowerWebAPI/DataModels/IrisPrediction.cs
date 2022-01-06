@@ -8,6 +8,6 @@ namespace IrisFlowerAPI.DataModels
         public uint ClusterPrediction { get; set; }
 
         [ColumnName("Score")]
-        public float[] Distances;
+        public float[] Distances { get; set; }
     }
 }

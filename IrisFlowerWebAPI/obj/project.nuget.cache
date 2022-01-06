@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "O1Ql1TuyeqYUKFjXT4fG4vDsnsfPuuVeEjJ1+VCyOPEnCtr2edwlFVlUhsugz+6miO5hZxBaT3dXsxSC/yv7MA==",
+  "dgSpecHash": "CrXNpTJ4i5Xr8OucAVLGpm7DV8c0wUQXyY0M+isNm3Tp7aYpxOxt2cFvzrJyw5g6vjsLMkX0rFsNGf+61cPFDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower-Project\\IrisFlowerWebAPI\\IrisFlowerWebAPI.csproj",
   "expectedPackageFiles": [
@@ -136,8 +136,7 @@
     "C:\\Users\\prico\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\prico\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\prico\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\prico\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\prico\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+    "C:\\Users\\prico\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -16,7 +16,7 @@ namespace IrisFlowerAPI.Controllers
            
         }
         
-        private string GetTypeFromCluster(uint clusterId)
+        private static string GetTypeFromCluster(uint clusterId)
         {
             return clusterId switch
             {

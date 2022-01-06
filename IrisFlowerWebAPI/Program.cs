@@ -3,7 +3,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace ML_API_V1
 {
-    public class Program
+    public static class Program
     {
         public static void Main(string[] args)
         {
