@@ -2,9 +2,7 @@
 using Microsoft.ML;
 using Microsoft.ML.Data;
 using System;
-using System.Linq;
 using System.IO;
-using System.Collections.Generic;
 public partial class MLIrisFlower
 {
     /// <summary>
@@ -46,7 +44,7 @@ public partial class MLIrisFlower
 
     #endregion
 
-    private static string MLNetModelPath = Path.GetFullPath("MLIrisFlower.zip");
+    private static readonly string MLNetModelPath = Path.GetFullPath("MLIrisFlower.zip");
 
     public static readonly Lazy<PredictionEngine<ModelInput, ModelOutput>> PredictEngine = new Lazy<PredictionEngine<ModelInput, ModelOutput>>(() => CreatePredictEngine(), true);
 
@@ -61,7 +59,7 @@ public partial class MLIrisFlower
         return predEngine.Predict(input);
     }
 
-    private static PredictionEngine<ModelInput, ModelOutput> CreatePredictEngine()
+    public static PredictionEngine<ModelInput, ModelOutput> CreatePredictEngine()
     {
         var mlContext = new MLContext();
         ITransformer mlModel = mlContext.Model.Load(MLNetModelPath, out var _);

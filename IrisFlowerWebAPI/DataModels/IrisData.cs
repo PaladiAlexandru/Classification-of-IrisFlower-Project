@@ -4,20 +4,19 @@ namespace IrisFlowerAPI.DataModels
 {
     public class IrisData
     {
-        [LoadColumn(0)]
+        [ColumnName(@"SepalLength")]
         public float SepalLength { get; set; }
 
-        [LoadColumn(1)]
+        [ColumnName(@"SepalWidth")]
         public float SepalWidth { get; set; }
 
-        [LoadColumn(2)]
+        [ColumnName(@"PetalLength")]
         public float PetalLength { get; set; }
 
-        [LoadColumn(3)]
+        [ColumnName(@"PetalWidth")]
         public float PetalWidth { get; set; }
 
-        [LoadColumn(4)]
-        [LoadColumnName("Label")]
+        [ColumnName(@"iris_class")]
         public string IrisType { get; set; }
     }
 }
