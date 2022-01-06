@@ -15,16 +15,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
     <PackageReference Include="Microsoft.ML" Version="1.6.0" />
   </ItemGroup>
-  <ItemGroup Label="MLIrisFlower">
-    <None Include="MLIrisFlower.consumption.cs">
-      <DependentUpon>MLIrisFlower.mbconfig</DependentUpon>
-    </None>
-    <None Include="MLIrisFlower.training.cs">
-      <DependentUpon>MLIrisFlower.mbconfig</DependentUpon>
-    </None>
-    <None Include="MLIrisFlower.zip">
-      <DependentUpon>MLIrisFlower.mbconfig</DependentUpon>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
 </Project>

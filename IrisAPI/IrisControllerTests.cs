@@ -8,21 +8,7 @@ namespace IrisAPI
     public class IrisControllerTests
     {
         [Fact]
-        public void Test1()
-        {
-            MLIrisFlower ml = new MLIrisFlower();
-            MLIrisFlower.ModelInput DataTest = new MLIrisFlower.ModelInput()
-            {
-                Petal_length = 0.0f,
-                Petal_width = 0.0f,
-                Sepal_length = 0.0f,
-                Sepal_width = 0.0f
-            }
-            ;
-            Assert.Equal("Iris-setosa", MLIrisFlower.Predict(DataTest).Prediction);
-        }
-        [Fact]
-        public void Test2()
+        public void GivenIrisDataThenPostMethodShouldReturnTheExpectedCategory()
         {
             IrisController controller = new IrisController();
             var flowerTest = new IrisData()

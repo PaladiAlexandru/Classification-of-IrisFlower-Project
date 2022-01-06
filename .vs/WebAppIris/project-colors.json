@@ -40,7 +40,12 @@
       "ProjectGuid": "52cc4b36-e0d9-4f56-a87f-68899740447d",
       "DisplayName": "MLModel_WebApi1",
       "ColorIndex": 6
+    },
+    "7c704051-bdd9-400c-8854-4881f830e975": {
+      "ProjectGuid": "7c704051-bdd9-400c-8854-4881f830e975",
+      "DisplayName": "IrisAPI",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

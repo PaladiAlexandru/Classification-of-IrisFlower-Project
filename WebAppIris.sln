@@ -7,11 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppIrisFlower-Frontend",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IrisFlowerWebAPI", "IrisFlowerWebAPI\IrisFlowerWebAPI.csproj", "{5F309393-30F3-4F12-8E39-EE6BD57D2EB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppIris.UnitTests", "WebAppIris.UnitTests\WebAppIris.UnitTests.csproj", "{14A19F0A-E119-431A-BCBF-232B16D40810}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{6413986B-859F-4B71-9ED1-E20927BC1E16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisAPI", "IrisAPI\IrisAPI.csproj", "{7C704051-BDD9-400C-8854-4881F830E975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IrisAPI", "IrisAPI\IrisAPI.csproj", "{7C704051-BDD9-400C-8854-4881F830E975}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +25,6 @@ Global
 		{5F309393-30F3-4F12-8E39-EE6BD57D2EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F309393-30F3-4F12-8E39-EE6BD57D2EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F309393-30F3-4F12-8E39-EE6BD57D2EB3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{14A19F0A-E119-431A-BCBF-232B16D40810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14A19F0A-E119-431A-BCBF-232B16D40810}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14A19F0A-E119-431A-BCBF-232B16D40810}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14A19F0A-E119-431A-BCBF-232B16D40810}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7C704051-BDD9-400C-8854-4881F830E975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7C704051-BDD9-400C-8854-4881F830E975}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C704051-BDD9-400C-8854-4881F830E975}.Release|Any CPU.ActiveCfg = Release|Any CPU

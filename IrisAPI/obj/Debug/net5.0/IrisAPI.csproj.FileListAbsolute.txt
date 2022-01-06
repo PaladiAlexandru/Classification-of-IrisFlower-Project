@@ -2,7 +2,6 @@ C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\ne
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\IrisFlowerWebAPI.deps.json
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\IrisFlowerWebAPI.runtimeconfig.json
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\IrisFlowerWebAPI.runtimeconfig.dev.json
-C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\MLIrisFlower.zip
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\IrisFlowerWebAPI.exe
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\testhost.exe
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -135,7 +134,6 @@ C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\ne
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\IrisFlowerWebAPI.dll
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\bin\Debug\net5.0\IrisFlowerWebAPI.pdb
-C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\obj\Debug\net5.0\IrisAPI.csprojAssemblyReference.cache
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\obj\Debug\net5.0\IrisAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\obj\Debug\net5.0\IrisAPI.AssemblyInfoInputs.cache
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\obj\Debug\net5.0\IrisAPI.AssemblyInfo.cs
@@ -145,3 +143,4 @@ C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\obj\Debug\ne
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\obj\Debug\net5.0\ref\IrisAPI.dll
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\obj\Debug\net5.0\IrisAPI.pdb
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\obj\Debug\net5.0\IrisAPI.genruntimeconfig.cache
+C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisAPI\obj\Debug\net5.0\IrisAPI.csproj.AssemblyReference.cache

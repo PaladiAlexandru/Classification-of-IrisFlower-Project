@@ -126,7 +126,6 @@ C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlo
 C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\ref\IrisFlowerWebAPI.dll
 C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.pdb
 C:\Users\imariciuc\Documents\GitHub\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.genruntimeconfig.cache
-C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin\Debug\net5.0\MLIrisFlower.zip
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin\Debug\net5.0\IrisFlowerWebAPI.exe
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin\Debug\net5.0\IrisFlowerWebAPI.deps.json
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin\Debug\net5.0\IrisFlowerWebAPI.runtimeconfig.json
@@ -175,7 +174,6 @@ C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
-C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.csprojAssemblyReference.cache
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.AssemblyInfoInputs.cache
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.AssemblyInfo.cs
@@ -183,7 +181,6 @@ C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\staticwebassets\IrisFlowerWebAPI.StaticWebAssets.Manifest.cache
-C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\staticwebassets\IrisFlowerWebAPI.StaticWebAssets.xml
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\scopedcss\bundle\IrisFlowerWebAPI.styles.css
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.csproj.CopyComplete
@@ -191,3 +188,5 @@ C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\ref\IrisFlowerWebAPI.dll
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.pdb
 C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.genruntimeconfig.cache
+C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\bin\Debug\net5.0\IrisFlowerWebAPI.StaticWebAssets.xml
+C:\Users\prico\Desktop\Classification-of-IrisFlower-Project\IrisFlowerWebAPI\obj\Debug\net5.0\IrisFlowerWebAPI.csproj.AssemblyReference.cache
